@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white; 
+    background-image: url("basketball.jpg");
+    background-size: cover; 
+    font: 75px solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}   
+#home {
+    border: solid white;
+    width: 200px;
+    height: 180px;
+    font-size: 150px; 
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    padding: 5px 10px 0px 10px; 
+    background-color: #1B244A;
+    margin-top: 20px;
+    border-width: 10px;
+}  
+
+#guest {
+    border: solid white;
+    width: 200px;
+    height: 180px;
+    font-size: 150px; 
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    padding: 5px 10px 0px 10px; 
+    background-color: #1B244A;
+    margin-top: 20px;
+    border-width: 10px; 
+
+}  
+.home1, .home2, .home3, .guest1, .guest2, .guest3 {
+    border: white;
+    border: 5px solid white;
+    color: #52d838;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 760px;
+    background-color: #1B244A;
+    font-size: 40px;
+    padding: 1px 1px 1px 1px;
+    border-color: #9AABD8;
+}
+
+    
